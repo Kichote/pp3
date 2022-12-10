@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=shoppingList
+comment1.params=
+comment1.target=shoppingList()
+comment2.params=
+comment2.target=java.util.ArrayList\ showcase()
+comment3.params=
+comment3.target=int\ howManyItems()
+comment4.params=
+comment4.target=void\ addItem()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
