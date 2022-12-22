@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Numbers
+comment1.params=int1\ int2\ int3\ int4\ int5
+comment1.target=Numbers(int,\ int,\ int,\ int,\ int)
+comment2.params=
+comment2.target=boolean\ different()
+numComments=3

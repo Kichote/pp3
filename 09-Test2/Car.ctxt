@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=seats\ maxSpeed
+comment1.target=Car(int,\ int)
+comment2.params=
+comment2.target=int[]\ spec()
+numComments=3

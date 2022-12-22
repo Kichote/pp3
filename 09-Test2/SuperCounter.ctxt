@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SuperCounter
+comment1.params=counter
+comment1.target=SuperCounter(int)
+comment2.params=n
+comment2.target=void\ addN(int)
+numComments=3
