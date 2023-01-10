@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Truck
+comment1.params=
+comment1.target=java.lang.String\ getWeight()
+comment2.params=weight
+comment2.target=void\ setWeight(java.lang.String)
+comment3.params=
+comment3.target=int\ getYear()
+comment4.params=year
+comment4.target=void\ setYear(int)
+comment5.params=weight\ year\ brand\ numberOfSeats\ licencePlate
+comment5.target=Truck(java.lang.String,\ int,\ java.lang.String,\ int,\ java.lang.String)
+comment6.params=
+comment6.target=void\ showInfo()
+numComments=7

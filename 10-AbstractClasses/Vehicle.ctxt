@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=brand\ numberOfSeats\ licensePlate
+comment1.target=Vehicle(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ showInfo()
+comment3.params=
+comment3.target=java.lang.String\ getBrand()
+comment4.params=brand
+comment4.target=void\ setBrand(java.lang.String)
+comment5.params=
+comment5.target=int\ getNumberOfSeats()
+comment6.params=numberOfSeats
+comment6.target=void\ setNumberOfSeats(int)
+comment7.params=
+comment7.target=java.lang.String\ getLicensePlate()
+comment8.params=licensePlate
+comment8.target=void\ setLicensePlate(java.lang.String)
+numComments=9
