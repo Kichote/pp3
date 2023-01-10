@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TV
+comment1.params=
+comment1.target=void\ on()
+comment2.params=
+comment2.target=void\ off()
+comment3.params=
+comment3.target=void\ volumeUp()
+comment4.params=
+comment4.target=void\ volumeDown()
+comment5.params=
+comment5.target=void\ showStatus()
+comment6.params=
+comment6.target=void\ channelUp()
+comment7.params=
+comment7.target=void\ channelDown()
+comment8.params=channel
+comment8.target=void\ setChannel(int)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
