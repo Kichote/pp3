@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=InternetDevice
+comment1.params=name
+comment1.target=InternetDevice(java.lang.String)
+comment2.params=name
+comment2.target=void\ setName(java.lang.String)
+comment3.params=connected
+comment3.target=void\ setConnected(boolean)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=boolean\ getConnected()
+comment6.params=
+comment6.target=void\ connect()
+comment7.params=
+comment7.target=void\ disconnect()
+comment8.params=
+comment8.target=boolean\ isConnected()
+comment9.params=
+comment9.target=int\ connections()
+numComments=10
